@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GarbagemonGO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="subscription_key">2d63afa40c4c427d99fa58cd435cfca0</string>
+    <string name="host">http://45.55.89.29:8080/</string>
+</resources>
